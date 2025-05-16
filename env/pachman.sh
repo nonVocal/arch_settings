@@ -20,3 +20,5 @@ sudo pacman -S pavucontrol
 sudo pacman -S --noconfirm --needed hyprlock hypridle hyprpaper
 yay -S hyprshot
 sudo pacman -S --noconfirm --needed rust
+
+yay -S starship
