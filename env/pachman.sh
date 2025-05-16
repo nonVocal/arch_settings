@@ -23,3 +23,4 @@ sudo pacman -S --noconfirm --needed rust
 
 yay -S starship
 sudo pacman -S yazi
+sudo pachman -S swaync
